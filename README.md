@@ -12,6 +12,7 @@ This project uses some third-party assets with a license that requires attributi
 
 For extra information about licenses, you can see it at the dependency repositories.
 //Teste
+CHAVE=mbj3fgcg5sc4ele4tnbvbc6y3xxxwas22ii2mosvlrhqrolauudq
 
 # Prerequisites #
 
